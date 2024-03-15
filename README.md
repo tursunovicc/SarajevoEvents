@@ -1,0 +1,2 @@
+# SarajevoEvents
+Softverski inžinjering projekt
